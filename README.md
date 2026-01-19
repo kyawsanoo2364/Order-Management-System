@@ -27,6 +27,23 @@ Order Management System built with **Spring Boot**, **Spring Security**, and **S
 
 ---
 
+
+### DevOps / Cloud
+- Docker
+- Google Cloud Run
+- Google Artifact Registry
+- GCP IAM
+- Environment Variables (Secrets)
+
+## 🚀 Live Demo (Google Cloud Run)
+
+**Production URL:**  
+👉 https://order-system-995861694342.asia-southeast1.run.app
+
+**Cloud Provider:** Google Cloud Platform (GCP)  
+**Service:** Cloud Run (Container-based)
+----
+
 ## 📁 Project Structure
 
 ```
