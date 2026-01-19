@@ -37,7 +37,7 @@ public class SecurityConfig {
                                         "/api/products/*/product",
                                         "/api/orders/stripe/webhook"
                                 ).permitAll()
-                                .requestMatchers("/api/orders/*/status")
+                                .requestMatchers("/api/orders/*/status","/api/products/**")
                                 .hasRole("ADMIN")
                                 .anyRequest().authenticated()
                         )
