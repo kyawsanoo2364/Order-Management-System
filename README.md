@@ -66,7 +66,7 @@ stripe:
 
 ## ⚙️ Configuration .env
 
-### application.yml / application.properties
+### Create .env file in root
 
 ```.env
 DATABASE_USERNAME=database_username
