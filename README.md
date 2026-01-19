@@ -149,7 +149,7 @@ docker compose up --build
 
 ```json
 {
-  "email": "admin@example.com",
+  "email": "admin@gmail.com",
   "password": "123456"
 }
 ```
