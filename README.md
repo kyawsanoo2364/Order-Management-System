@@ -79,8 +79,6 @@ STRIPE_SECRET_KEY=sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxx
 ```
 
-> ⚠️ Never commit your real Stripe secret key
-
 ---
 
 ## ▶️ Running the Application
